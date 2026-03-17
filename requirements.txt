@@ -1,0 +1,10 @@
+lightgbm
+scikit-learn
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+pyyaml
+tqdm

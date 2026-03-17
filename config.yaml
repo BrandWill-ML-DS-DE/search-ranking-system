@@ -1,0 +1,8 @@
+model:
+  path: models/lgbm_ranker.txt
+
+retrieval:
+  top_k: 20
+
+rerank:
+  top_k: 10
